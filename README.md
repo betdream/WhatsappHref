@@ -10,3 +10,7 @@ This script Looking phone os and create link for phone os.
 
 
 http://stackoverflow.com/questions/21500570/start-whatsapp-from-url-href-with-custom-text-content/
+
+
+Whatsapp Faq
+https://www.whatsapp.com/faq/android/28000012
