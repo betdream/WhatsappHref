@@ -33,7 +33,7 @@
 
                   if (mq.matches) {
                       if (isMobile.Android()) {
-                          $("a").attr("href", "intent://send/+905055555#Intent;scheme=smsto; package=com.whatsapp;action=android.intent.action.SENDTO;end");
+                          $("a").attr("href", "intent://send/+905055555#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end");
                       } else {
                           $("a").attr("href", "tel:+905555555555");
 
